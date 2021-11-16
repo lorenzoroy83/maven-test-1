@@ -115,7 +115,7 @@
 				<manifest>
 					<addClasspath>true</addClasspath>
 					<!-- here we specify that we want to use the main method within the App class -->
-					<mainClass>com.example.hadoop.wordCount.WordCountApp</mainClass>
+					<mainClass>com.sohamkamani.App</mainClass>
 
 				</manifest>
 			</archive>
